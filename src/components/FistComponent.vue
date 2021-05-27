@@ -10,7 +10,7 @@ export default {
   name: 'FistComponent',
   data () {
     return {
-      title: 'ToDoList'
+      title: 'ToDoList Update'
     }
   }
 }
